@@ -1,1 +1,1 @@
-Hello Git and GitHub
+Hello Git and GitHub - from the cmd line
